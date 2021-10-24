@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Transtheism",
+    "type": "Pantheon",
+    "uniques": ["Resting point for Influence with City-States following this religion [20]",
+      "Allied City-States provide [Faith] equal to [50]% of what they produce for themselves","[+2 Culture] from every [Philosopher]"
+    ]
+  },
+  {
+    "name": "Non-theism",
+    "type": "Pantheon",
+    "uniques": ["Resting point for Influence with City-States following this religion [15]",
+      "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves","[+2 Science] from every [Philosopher]"
+    ]
+  },
+  {
+    "name": "Monotheism",
+    "type": "Pantheon",
+    "uniques": ["[+30]% great person generation [in cities following this religion]","[+2 Science] from every [Philosopher]",
+      "[+1]% [Gold] from every follower, up to [30]%"
+    ]
+  },
+  {
+    "name": "Pantheism",
+    "type": "Pantheon",
+    "uniques": ["Double Happiness from Natural Wonders","[+2 Faith] from every [Friendly Land]","[+1]% [Faith] from every follower, up to [25]%","[+1 Science] from every [Ascetic]"]
+  },
+  {
+    "name": "Strong Panentheism",
+    "type": "Pantheon",
+    "uniques": ["[+1]% [Culture] from every follower, up to [40]%", "[+1]% [Faith] from every follower, up to [20]%","[+1]% [Gold] from every follower, up to [20]%"]
+  },
+  {
+    "name": "Palamite Panentheism",
+    "type": "Pantheon",
+    "uniques": ["[+2]% [Production] from every follower, up to [50]%","[+30]% great person generation [in cities following this religion]","[+3 Faith] from every [Ascetic]"]
+  },
+  {
+    "name": "Polytheism",
+    "type": "Pantheon",
+    "uniques": [
+      "[Great Merchant] is earned [40]% faster","[+2 Gold] from each Trade Route","[+2 Faith, +1 Culture] from every [Shrine]"
+    ]
+  }
+]
