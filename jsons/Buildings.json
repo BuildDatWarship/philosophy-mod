@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sacred Space",
+    "cost": 200,
+    "hurryCostModifier": 200,
+    "faith": 5,
+    "maintenance": 3,
+    "specialistSlots": {
+      "Ascetic": 2
+    },
+    "uniques": ["Destroyed when the city is captured","Hidden when religion is disabled"]
+  },
+  {
+    "name": "College of Theology",
+    "cost": 360,
+    "hurryCostModifier": 360,
+    "faith": 4,
+    "science": 4,
+    "maintenance": 6,
+    "requiredTech": "Theology",
+    "specialistSlots": {
+      "Philosopher": 3
+    },
+    "uniques": ["Hidden when religion is disabled"]
+  }
+]
