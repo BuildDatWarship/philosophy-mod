@@ -1,0 +1,16 @@
+[
+  {
+    "name":"Ascetic",
+    "faith":4,
+    "greatPersonPoints": {"Great Prophet":4},
+    "color": [41,134,204]
+  },
+  {
+    "name":"Philosopher",
+    "culture":2,
+    "science":2,
+    "faith":2,
+    "greatPersonPoints": {"Great Scientist":6},
+    "color": [192,192,192]
+  }
+]
