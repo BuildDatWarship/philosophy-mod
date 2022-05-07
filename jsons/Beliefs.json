@@ -45,5 +45,20 @@
     "name": "Cycle of Reincarnation",
     "type": "Pantheon",
     "uniques": ["[+50]% Natural religion spread [in City-State cities]","[+4 Faith, +2 Culture] from every [Ascetic]","[+1 Gold] from every [Shrine]"]
-  }
+  },
+    {
+        "name": "Autocephalous Communion",
+        "type": "Founder",
+        "uniques": ["Resting point for Influence with City-States following this religion [+20]","[+1 Happiness] and [+1 Culture] from every [Shrine] <in cities where this religion has at least [3] followers>"]
+    },
+{
+        "name": "Submission to the Pope",
+        "type": "Founder",
+        "uniques": ["Resting point for Influence with City-States following this religion [+60]"]
+    },
+{
+        "name": "Sola Scriptura",
+        "type": "Founder",
+        "uniques": ["[+50]% Natural religion spread [in all cities]"]
+    }
 ]
