@@ -60,5 +60,10 @@
         "name": "Sola Scriptura",
         "type": "Founder",
         "uniques": ["[+50]% Natural religion spread [in all cities]"]
+    },
+{
+        "name": "Impermanence",
+        "type": "Founder",
+        "uniques": ["[+2 Food, +1 Faith] from every [Philosopher]"]
     }
 ]
