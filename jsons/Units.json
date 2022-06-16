@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Barong",
+		"unitType": "Deity",
+		"movement": "3",
+		"strength": "90",
+  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units"],
+  }
+]
