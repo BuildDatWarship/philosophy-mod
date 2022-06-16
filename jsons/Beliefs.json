@@ -2,14 +2,14 @@
   {
     "name": "Greater than the Gods",
     "type": "Pantheon",
-    "uniques": ["[+50]% Natural religion spread [in City-State cities]",
-      "Allied City-States provide [Faith] equal to [50]% of what they produce for themselves","[+2 Culture, +1 Faith] from every [Philosopher]","[+100]% Production when constructing [Sacred Space] buildings [in all cities]"
+    "uniques": ["[+70]% Natural religion spread [in City-State cities]",
+      "[+10]% Natural religion spread [in all cities]","[+2 Culture, +1 Faith] from every [Philosopher]","[+100]% Production when constructing [Sacred Space] buildings [in all cities]"
     ]
   },
   {
     "name": "Spirits not Gods",
     "type": "Pantheon",
-    "uniques": ["[+100]% [Faith] from City-States","[+2 Faith] from every [Philosopher]"
+    "uniques": ["Religion naturally spreads to cities [+4] tiles away", "[+20]% Natural religion spread [in all cities]" ,"[+2 Faith] from every [Philosopher]"
     ]
   },
   {
@@ -38,7 +38,7 @@
     "name": "Polytheism",
     "type": "Pantheon",
     "uniques": [
-      "Religion naturally spreads to cities [+3] tiles away","[+2 Gold, +2 Faith] from each Trade Route","[+2 Faith, +2 Culture] from every [Shrine]"
+      "[+25]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+3] tiles away","[+2 Gold, +2 Faith] from each Trade Route","[+2 Faith, +2 Culture] from every [Shrine]"
     ]
   },
 {
@@ -79,7 +79,7 @@
 {
         "name": "Sesajen",
         "type": "Follower"
-        "uniques": ["[+1 Food] from all [Faith] buildings", "Double quantity of [Incense] produced"]
+        "uniques": ["[+1 Food] from all [Faith] buildings", "[+2 Gold, +2 Faith] from every [Incense]"]
     },
 {
         "name": "King of Spirits",
