@@ -74,11 +74,16 @@
 {
         "name": "Shaolin",
         "type": "Follower"
-        "uniques": ["[+20]% Strength for cities","[+15]% Strength <for [Melee] units>"]
+        "uniques": ["[+20]% Strength for cities","[+15]% Strength for [All] units when fighting in [All] tiles"]
     },
 {
         "name": "Sesajen",
         "type": "Follower"
         "uniques": ["[+1 Food] from all [Faith] buildings", "Double quantity of [Incense] produced"]
+    },
+{
+        "name": "King of Spirits",
+        "type": "Enhancer"
+        "uniques": ["Free [Barong] appears", "[2] Free [Missionary] units appear"]
     }
 ]
