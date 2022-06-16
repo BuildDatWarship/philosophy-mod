@@ -9,7 +9,7 @@
   {
     "name": "Spirits not Gods",
     "type": "Pantheon",
-    "uniques": ["Allied City-States provide [Faith] equal to [200]% of what they produce for themselves","[+2 Faith] from every [Philosopher]"
+    "uniques": ["[+100]% [Faith] from City-States","[+2 Faith] from every [Philosopher]"
     ]
   },
   {
@@ -44,7 +44,7 @@
 {
     "name": "Cycle of Reincarnation",
     "type": "Pantheon",
-    "uniques": ["[+50]% Natural religion spread [in City-State cities]","[+4 Faith, +2 Culture] from every [Ascetic]","[+1 Gold] from every [Shrine]"]
+    "uniques": ["[+60]% Natural religion spread [in City-State cities]","[+4 Faith, +2 Culture] from every [Ascetic]","[+1 Gold] from every [Shrine]"]
   },
     {
         "name": "Autocephalous Communion",
@@ -59,11 +59,26 @@
 {
         "name": "Sola Scriptura",
         "type": "Founder",
-        "uniques": ["[+50]% Natural religion spread [in all cities]"]
+        "uniques": ["[+40]% Natural religion spread [in all cities]"]
     },
 {
         "name": "Impermanence",
         "type": "Founder",
-        "uniques": ["[+2 Food, +1 Faith] from every [Philosopher]"]
+        "uniques": ["[+1 Food, +2 Faith] from every [Philosopher]"]
+    },
+{
+        "name": "Jihad",
+        "type": "Follower"
+        "uniques": ["[+25]% Production when constructing [All] units [in all cities]"]
+    },
+{
+        "name": "Shaolin",
+        "type": "Follower"
+        "uniques": ["[+20]% Strength for cities","[+15]% Strength <for [Melee] units>"]
+    },
+{
+        "name": "Sesajen",
+        "type": "Follower"
+        "uniques": ["[+1 Food] from all [Faith] buildings", "Double quantity of [Incense] produced"]
     }
 ]
