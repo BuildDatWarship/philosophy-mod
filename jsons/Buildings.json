@@ -22,5 +22,25 @@
       "Philosopher": 3
     },
     "uniques": ["Hidden when religion is disabled"]
+  },
+  {
+    "name": "St Peter's Basilica",
+    "faith": 8,
+    "culture": 2,
+    "production": 4,
+    "isWonder": true,
+    "greatPersonPoints": {"Great Prophet": 4},
+    "requiredTech": "Theology",
+    "uniques": ["Hidden when religion is disabled"]
+  },
+  {
+    "name": "Fushimi Inari Taisha",
+    "faith": 4,
+    "culture": 4,
+    "food": 4,
+    "isWonder": true,
+    "greatPersonPoints": {"Great Prophet": 4},
+    "requiredTech": "Masonry",
+    "uniques": ["Hidden when religion is disabled"]
   }
 ]
