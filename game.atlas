@@ -1,0 +1,67 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Sufi Islam
+  rotate: false
+  xy: 4, 4
+  size: 2000, 2000
+  orig: 2000, 2000
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Theravada Buddhism
+  rotate: false
+  xy: 4, 4
+  size: 1398, 1398
+  orig: 1398, 1398
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ReligionIcons/Assyrian Christianity
+  rotate: false
+  xy: 4, 4
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+ReligionIcons/Jodo Buddhism
+  rotate: false
+  xy: 1745, 1800
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+ReligionIcons/Oriental Orthodoxy
+  rotate: false
+  xy: 1212, 1485
+  size: 525, 475
+  orig: 525, 475
+  offset: 0, 0
+  index: -1
+ReligionIcons/Roman Catholicism
+  rotate: false
+  xy: 4, 372
+  size: 1200, 1588
+  orig: 1200, 1588
+  offset: 0, 0
+  index: -1
+ReligionIcons/Vajrayana Buddhism
+  rotate: false
+  xy: 1212, 1177
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
