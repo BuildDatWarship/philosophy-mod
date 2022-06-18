@@ -31,7 +31,7 @@
     "isWonder": true,
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Theology",
-    "uniques": ["Hidden when religion is disabled"]
+    "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
   },
   {
     "name": "Fushimi Inari Taisha",
@@ -41,6 +41,13 @@
     "isWonder": true,
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Masonry",
-    "uniques": ["Hidden when religion is disabled"]
-  }
+    "uniques": ["Hidden when religion is disabled","Free [Great Prophet] appears"]
+  },
+{
+		"name": "Pura Agung",
+		"cost": 0,
+		"faith": 3,
+		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+"Free [Barong] appears"]
+	}
 ]
