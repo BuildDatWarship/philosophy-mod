@@ -31,7 +31,7 @@
     "isWonder": true,
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Theology",
-    "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [Enhancing] a religion"]
+    "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
   },
   {
     "name": "Fushimi Inari Taisha",
