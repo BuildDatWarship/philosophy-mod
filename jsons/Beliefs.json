@@ -9,30 +9,30 @@
   {
     "name": "Spirits not Gods",
     "type": "Pantheon",
-    "uniques": ["Religion naturally spreads to cities [+4] tiles away", "[+20]% Natural religion spread [in all cities]" ,"[+2 Faith] from every [Philosopher]"
+    "uniques": ["Religion naturally spreads to cities [+4] tiles away", "[+20]% Natural religion spread [in all cities]"
     ]
   },
   {
     "name": "One Supreme God",
     "type": "Pantheon",
-    "uniques": ["[+50]% great person generation [in cities following this religion]","[+2 Science] from every [Philosopher]",
-      "[+1]% [Gold] from every follower, up to [25]%"
+    "uniques": ["[+50]% great person generation [in cities following this religion]",
+      "[+2]% [Gold] from every follower, up to [20]%"
     ]
   },
   {
     "name": "Pantheism",
     "type": "Pantheon",
-    "uniques": ["[+4 Faith] from every [Friendly Land]","[+1]% [Gold] from every follower, up to [30]%","[+1 Science] from every [Ascetic]"]
+    "uniques": ["[+3 Faith] from every [Friendly Land]","[+1 Science] from every [Ascetic]"]
   },
   {
     "name": "Strong Panentheism",
     "type": "Pantheon",
-    "uniques": ["[+1]% [Culture] from every follower, up to [40]%", "[+1]% [Faith] from every follower, up to [20]%","[+1]% [Gold] from every follower, up to [20]%"]
+    "uniques": ["[+2]% [Culture] from every follower, up to [30]%", "[+3 Faith] from every [Friendly Land]"]
   },
   {
     "name": "Palamite Panentheism",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith] from every follower","[+30]% great person generation [in cities following this religion]","[+3 Faith] from every [Ascetic]"]
+    "uniques": ["[+2 Faith] from every [Friendly Land]","[+30]% great person generation [in cities following this religion]","[+3 Faith, +1 Production] from every [Ascetic]"]
   },
   {
     "name": "Polytheism",
@@ -64,12 +64,12 @@
 {
         "name": "Impermanence",
         "type": "Founder",
-        "uniques": ["[+1 Food, +2 Faith] from every [Philosopher]"]
+        "uniques": ["[+1 Food, +2 Faith] from every [Philosopher]","[+1 Food, +2 Faith] from every [Ascetic]"]
     },
 {
         "name": "Jihad",
         "type": "Follower"
-        "uniques": ["[+25]% Production when constructing [All] units [in all cities]"]
+        "uniques": ["[+25]% Production when constructing [All] units [in cities following this religion]"]
     },
 {
         "name": "Shaolin",
@@ -85,5 +85,40 @@
         "name": "King of Spirits",
         "type": "Enhancer"
         "uniques": ["May buy [Pura Agung] buildings with [Faith] [in cities following this religion]"]
+    },
+{
+        "name": "Hesychasm",
+        "type": "Follower"
+        "uniques": ["[+25]% Natural religion spread [in cities following this religion] <when at war>", "[+2 Faith] [in all cities]"]
+    },
+{
+        "name": "Corrupted Scripture",
+        "type": "Founder",
+        "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-25]%","[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]"]
+    },
+{
+        "name": "Holy Iconography",
+        "type": "Follower",
+        "uniques": ["[+2 Gold, +2 Faith, +2 Culture] from every [Dyes]"]
+    },
+{
+        "name": "Predestination",
+        "type": "Follower",
+        "uniques": ["[+50]% Natural religion spread [in all cities] <when at war>","[-33]% Natural religion spread [in all cities] <when not at war>","[-2]% [Happiness] from every follower, up to [-20]% <when not at war>"]
+    },
+{
+        "name": "Apostolic Succession",
+        "type": "Founder",
+        "uniques": ["[Faith] cost of purchasing [Missionary] units [-25]%","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+    },
+{
+        "name": "Nihilism",
+        "type": "Follower",
+        "uniques": ["[+25]% Natural religion spread [in all cities]","[-3]% [Happiness] from every follower, up to [-30]% <when not at war>","[+1 Gold] [in all cities]","[+2 Faith] [in all cities] <during a Golden Age>"]
+    },
+{
+        "name": "Hedonism",
+        "type": "Follower",
+        "uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>","[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings","[+2 Culture, -3 Faith] from every [Ascetic]"]
     }
 ]
