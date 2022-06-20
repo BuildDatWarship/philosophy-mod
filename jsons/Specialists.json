@@ -7,10 +7,10 @@
   },
   {
     "name":"Philosopher",
-    "culture":2,
+    "culture":1,
     "science":2,
     "faith":2,
-    "greatPersonPoints": {"Great Scientist":6},
+    "greatPersonPoints": {"Great Scientist":4},
     "color": [192,192,192]
   }
 ]
