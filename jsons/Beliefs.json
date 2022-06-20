@@ -74,7 +74,7 @@
 {
         "name": "Shaolin",
         "type": "Follower"
-        "uniques": ["[+20]% Strength for cities","[+15]% Strength for [All] units when fighting in [All] tiles"]
+        "uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>","[+15]% Strength for [All] units when fighting in [All] tiles"]
     },
 {
         "name": "Sesajen",
