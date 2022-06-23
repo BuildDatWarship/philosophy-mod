@@ -79,7 +79,7 @@
         "name": "Ritual Combat",
         "type": "Follower"
         "uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
-  "[+15]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"]
+  "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
     },
 {
         "name": "Sesajen",
@@ -149,7 +149,7 @@
 {
         "name": "Tzelota",
         "type": "Follower",
-        "uniques": ["[+10]% Strength <for [Melee] units> <when fighting in [All] tiles>","[+1 Faith] from every [Temple]"]
+        "uniques": ["[+10]% Strength <for [All] units> <when fighting in [All] tiles>","[+1 Faith] from every [Temple]"]
     },
 {
         "name": "Food Offering",
