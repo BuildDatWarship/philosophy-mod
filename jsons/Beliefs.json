@@ -3,7 +3,8 @@
     "name": "Greater than the Gods",
     "type": "Pantheon",
     "uniques": ["[+70]% Natural religion spread [in City-State cities]",
-      "[+10]% Natural religion spread [in all cities]","[+2 Culture, +1 Faith] from every [Philosopher]","[+100]% Production when constructing [Sacred Space] buildings [in all cities]"
+      "[+10]% Natural religion spread [in all cities]","[+2 Culture, +1 Faith] from every [Philosopher]",
+                "[+100]% Production when constructing [Sacred Space] buildings [in all cities]"
     ]
   },
   {
@@ -32,13 +33,15 @@
   {
     "name": "Palamite Panentheism",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith] from every [Friendly Land]","[+30]% great person generation [in cities following this religion]","[+3 Faith, +1 Production] from every [Ascetic]"]
+    "uniques": ["[+2 Faith] from every [Friendly Land]","[+30]% great person generation [in cities following this religion]",
+                "[+3 Faith, +1 Production] from every [Ascetic]"]
   },
   {
     "name": "Polytheism",
     "type": "Pantheon",
     "uniques": [
-      "[+25]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+3] tiles away","[+2 Gold, +2 Faith] from each Trade Route","[+2 Faith, +2 Culture] from every [Shrine]"
+      "[+25]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+3] tiles away",
+      "[+2 Gold, +2 Faith] from each Trade Route","[+2 Faith, +2 Culture] from every [Shrine]"
     ]
   },
 {
@@ -49,7 +52,8 @@
     {
         "name": "Autocephalous Communion",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+20]","[+1 Happiness, +1 Culture] from every [Shrine] <in cities where this religion has at least [3] followers>"]
+        "uniques": ["Resting point for Influence with City-States following this religion [+20]",
+                    "[+1 Happiness, +1 Culture] from every [Shrine] <in cities where this religion has at least [3] followers>"]
     },
 {
         "name": "Submission to the Pope",
@@ -72,9 +76,10 @@
         "uniques": ["[+25]% Production when constructing [All] units [in cities following this religion]"]
     },
 {
-        "name": "Shaolin",
+        "name": "Ritual Combat",
         "type": "Follower"
-        "uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>","[+15]% Strength for [All] units when fighting in [All] tiles"]
+        "uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
+  "[+15]% Strength <for [Melee] units> <when fighting in [Enemy Land] tiles>"]
     },
 {
         "name": "Sesajen",
@@ -94,17 +99,19 @@
 {
         "name": "Corrupted Scripture",
         "type": "Founder",
-        "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-25]%","[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]"]
+        "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-25]%",
+                    "[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]"]
     },
 {
         "name": "Holy Iconography",
         "type": "Follower",
-        "uniques": ["[+2 Gold, +2 Faith, +2 Culture] from every [Dyes]"]
+        "uniques": ["[+2 Gold, +2 Culture] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]"]
     },
 {
         "name": "Predestination",
         "type": "Follower",
-        "uniques": ["[+50]% Natural religion spread [in all cities] <when at war>","[-33]% Natural religion spread [in all cities] <when not at war>","[-2]% [Happiness] from every follower, up to [-20]% <when not at war>"]
+        "uniques": ["[+50]% Natural religion spread [in all cities] <when at war>","[-33]% Natural religion spread [in all cities] <when not at war>",
+                    "[-2]% [Happiness] from every follower, up to [-20]% <when not at war>"]
     },
 {
         "name": "Apostolic Succession",
@@ -114,11 +121,54 @@
 {
         "name": "Nihilism",
         "type": "Follower",
-        "uniques": ["[+25]% Natural religion spread [in all cities]","[-3]% [Happiness] from every follower, up to [-30]% <when not at war>","[+1 Gold] [in all cities]","[+2 Faith] [in all cities] <during a Golden Age>"]
+        "uniques": ["[+25]% Natural religion spread [in all cities]","[-3]% [Happiness] from every follower, up to [-30]% <when not at war>",
+                    "[+1 Gold] [in all cities]",
+                    "[+2 Faith] [in all cities] <during a Golden Age>"]
     },
 {
         "name": "Hedonism",
         "type": "Follower",
-        "uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>","[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings","[+2 Culture, -3 Faith] from every [Ascetic]"]
+        "uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>","[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings",
+                    "[+2 Culture, -3 Faith] from every [Ascetic]"]
+    },
+{
+        "name": "Incarnation of God",
+        "type": "Founder",
+        "uniques": ["[+25]% Natural religion spread [in all cities]"]
+    },
+{
+        "name": "Theosis",
+        "type": "Enhancer",
+        "uniques": ["[-33]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
+    },
+{
+        "name": "Liturgical Chanting",
+        "type": "Follower",
+        "uniques": ["[+2 Culture] from all [Faith] buildings"]
+    },
+{
+        "name": "Tzelota",
+        "type": "Follower",
+        "uniques": ["[+10]% Strength <for [Melee] units> <when fighting in [All] tiles>","[+1 Faith] from every [Temple]"]
+    },
+{
+        "name": "Food Offering",
+        "type": "Follower",
+        "uniques": ["[+1 Food, +1 Culture] from all [Faith] buildings"]
+    },
+{
+        "name": "Iconoclasm",
+        "type": "Founder",
+        "uniques": ["[+3 Faith, -2 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>",
+                    "[+33]% Natural religion spread [in all cities in which the majority religion is a enhanced religion]",
+                    "[-1 Happiness, -2 Faith] from every [Dyes]"]
+    },
+{
+        "name": "Ahimsa",
+        "type": "Follower",
+        "uniques": ["[-1 Food, +1 Faith, +1 Culture] from every [Cattle]","[-1 Food, +1 Faith, +1 Culture] from every [Bison]",
+                    "[-1 Food, +1 Faith, +1 Culture] from every [Sheep]","[-1 Food, +1 Faith, +1 Culture] from every [Deer]",
+                   "[-1 Food, +1 Faith] from every [Fish]","[-1 Food, +1 Faith] from every [Whales]",
+                    "[-1 Food, +1 Faith] from every [Crab]"]
     }
 ]
