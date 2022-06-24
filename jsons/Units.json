@@ -2,8 +2,27 @@
   {
     "name": "Barong",
 		"unitType": "Deity",
+	  	"rangedStrength": 70,
 		"movement": "3",
+	  	"range": 3,
 		"strength": "90",
-  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units"],
+  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units","Eliminates combat penalty for attacking over a river"],
+  },
+	{
+    "name": "St Mercurius",
+		"unitType": "Deity",
+		"movement": "4",
+		"strength": "85",
+		"promotions": ["Blitz"],
+  "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units","[+15]% Strength bonus for [Military] units within [2] tiles"],
+  },
+	{
+    "name": "Simon the Tanner",
+		"unitType": "Deity",
+		"movement": "2",
+		"strength": "300",
+		"promotions": ["Blitz"],
+  "uniques": ["Cannot be purchased","Unbuildable","Nuclear weapon of Strength [2]","Blast radius [2]","Invisible to non-adjacent units",
+	      "Eliminates combat penalty for attacking over a river","Self-destructs when attacking"],
   }
 ]
