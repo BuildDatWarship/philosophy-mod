@@ -134,7 +134,7 @@
 {
         "name": "Incarnation of God",
         "type": "Founder",
-        "uniques": ["[+25]% Natural religion spread [in all cities]"]
+        "uniques": ["[+33]% Natural religion spread [in all cities]","[+2]% [Gold] from every follower, up to [20]%"]
     },
 {
         "name": "Theosis",
@@ -149,7 +149,7 @@
 {
         "name": "Tzelota",
         "type": "Follower",
-        "uniques": ["[+10]% Strength <for [All] units> <when fighting in [All] tiles>","[+1 Faith] from every [Temple]"]
+        "uniques": ["[+10]% Strength for cities <in cities with at least [3] [Followers of this Religion]>","[+1 Faith] from every [Temple]"]
     },
 {
         "name": "Food Offering",
@@ -170,5 +170,5 @@
                     "[-1 Food, +1 Faith, +1 Culture] from every [Sheep]","[-1 Food, +1 Faith, +1 Culture] from every [Deer]",
                    "[-1 Food, +1 Faith] from every [Fish]","[-1 Food, +1 Faith] from every [Whales]",
                     "[-1 Food, +1 Faith] from every [Crab]"]
-    }
+    },
 ]
