@@ -180,5 +180,15 @@
         "name": "Wonderworkers",
         "type": "Enhancer"
         "uniques": ["May buy [The Hanging Church] buildings with [Faith] [in cities following this religion]"]
+    },
+{
+        "name": "Ramadan",
+        "type": "Follower"
+        "uniques": ["[+1 Food] from every [3] global followers [in all cities]","[+1 Gold] from every [4] global followers [in all cities]"]
+    },
+{
+        "name": "Fasting Calendar",
+        "type": "Follower"
+        "uniques": ["[+2 Food] from every [2] global followers [in all cities]","[+1 Production] from every [4] global followers [in all cities]"]
     }
 ]
