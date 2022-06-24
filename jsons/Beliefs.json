@@ -171,4 +171,14 @@
                    "[-1 Food, +1 Faith] from every [Fish]","[-1 Food, +1 Faith] from every [Whales]",
                     "[-1 Food, +1 Faith] from every [Crab]"]
     },
+{
+        "name": "Divine Guardians",
+        "type": "Enhancer"
+        "uniques": ["May buy [Icon of Saint Mercurius] buildings with [Faith] [in cities following this religion]"]
+    },
+{
+        "name": "Wonderworkers",
+        "type": "Enhancer"
+        "uniques": ["May buy [The Hanging Church] buildings with [Faith] [in cities following this religion]"]
+    }
 ]
