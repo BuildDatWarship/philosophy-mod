@@ -31,13 +31,15 @@
     "isWonder": true,
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Theology",
+	  	"quote": "'I saw the angel in the marble and carved until I set him free.' - Michelangelo Buonarroti",
     "uniques": ["Hidden when religion is disabled","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
   },
   {
     "name": "Fushimi Inari Taisha",
     "faith": 4,
     "culture": 4,
-    "food": 4,
+    "food": 3,
+	"Gold": 3,
     "isWonder": true,
     "greatPersonPoints": {"Great Prophet": 4},
     "requiredTech": "Masonry",
@@ -47,7 +49,24 @@
 		"name": "Pura Agung",
 		"cost": 0,
 		"faith": 3,
+		"food": 1,
 		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
 "Free [Barong] appears"]
+	},
+{
+		"name": "Icon of Saint Mercurius",
+		"cost": 0,
+		"faith": 2,
+		"culture": 2,
+		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+"Free [St Mercurius] appears"]
+	},
+{
+		"name": "The Hanging Church",
+		"cost": 0,
+		"faith": 2,
+		"culture": 2,
+		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+"Free [Simon the Tanner] appears"]
 	}
 ]
