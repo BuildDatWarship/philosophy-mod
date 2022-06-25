@@ -105,7 +105,7 @@
 {
         "name": "Holy Iconography",
         "type": "Follower",
-        "uniques": ["[+2 Gold, +2 Culture, +1 Faith] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]"]
+        "uniques": ["[+2 Gold, +2 Culture, +1 Faith] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]","[+1 Culture] per [3] population [in all cities]"]
     },
 {
         "name": "Predestination",
@@ -185,12 +185,12 @@
 {
         "name": "Ramadan",
         "type": "Follower"
-        "uniques": ["[+1 Food] from every [3] global followers [in all cities]","[+1 Gold] from every [4] global followers [in all cities]"]
+        "uniques": ["[+1 Gold, +1 Food, +1 Faith] per [3] population [in all cities]"]
     },
 {
         "name": "Fasting Calendar",
         "type": "Follower"
-        "uniques": ["[+2 Food] from every [2] global followers [in all cities]","[+1 Production] from every [4] global followers [in all cities]"]
+        "uniques": ["[+1 Food, +2 Production] per [3] population [in all cities]"]
     },
 {
         "name": "Work Ethic",
