@@ -4,19 +4,6 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ReligionIcons/Theravada Buddhism
-  rotate: false
-  xy: 4, 4
-  size: 1398, 1398
-  orig: 1398, 1398
-  offset: 0, 0
-  index: -1
-
-game2.png
-size: 2048, 2048
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 ReligionIcons/Oriental Orthodoxy
   rotate: false
   xy: 1212, 1192
@@ -46,91 +33,98 @@ UnitIcons/St Mercurius
   offset: 0, 0
   index: -1
 
-game3.png
+game2.png
 size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Fushimi Inari Taisha
   rotate: false
-  xy: 512, 140
+  xy: 372, 300
   size: 260, 200
   orig: 260, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Pura Agung
   rotate: false
-  xy: 1183, 820
+  xy: 640, 316
   size: 200, 196
   orig: 200, 196
   offset: 0, 0
   index: -1
 BuildingIcons/St Peter's Basilica
   rotate: false
-  xy: 4, 8
+  xy: 1032, 520
   size: 500, 500
   orig: 500, 500
   offset: 0, 0
   index: -1
 ReligionIcons/Assyrian Christianity
   rotate: false
-  xy: 512, 656
+  xy: 4, 140
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
 ReligionIcons/Bali Hinduism
   rotate: false
-  xy: 880, 721
+  xy: 1540, 417
   size: 295, 295
   orig: 295, 295
   offset: 0, 0
   index: -1
 ReligionIcons/Jodo Buddhism
   rotate: false
-  xy: 1599, 856
+  xy: 1848, 860
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 ReligionIcons/Manichaeism
   rotate: false
-  xy: 4, 516
+  xy: 524, 520
   size: 500, 500
   orig: 500, 500
   offset: 0, 0
   index: -1
 ReligionIcons/Sufi Islam
   rotate: false
-  xy: 1391, 816
+  xy: 848, 312
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+ReligionIcons/Theravada Buddhism
+  rotate: false
+  xy: 4, 508
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
 ReligionIcons/Vajrayana Buddhism
   rotate: false
-  xy: 512, 348
+  xy: 1540, 720
   size: 300, 300
   orig: 300, 300
   offset: 0, 0
   index: -1
 TileSets/Units/Barong
   rotate: false
-  xy: 1767, 888
+  xy: 4, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Units/Simon the Tanner
   rotate: false
-  xy: 1903, 888
+  xy: 140, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/Units/St Mercurius
   rotate: false
-  xy: 512, 4
+  xy: 276, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
