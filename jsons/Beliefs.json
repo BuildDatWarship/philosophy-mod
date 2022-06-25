@@ -23,7 +23,7 @@
   {
     "name": "Pantheism",
     "type": "Pantheon",
-    "uniques": ["[+3 Faith] from every [Friendly Land]","[+1 Science] from every [Ascetic]"]
+    "uniques": ["[+1 Faith] from every [Friendly Land]","[+1 Science] from every [Ascetic]"]
   },
   {
     "name": "Strong Panentheism",
@@ -33,7 +33,7 @@
   {
     "name": "Palamite Panentheism",
     "type": "Pantheon",
-    "uniques": ["[+2 Faith] from every [Friendly Land]","[+30]% great person generation [in cities following this religion]",
+    "uniques": ["[+1 Faith] from every [Friendly Land]","[+30]% great person generation [in cities following this religion]",
                 "[+3 Faith, +1 Production] from every [Ascetic]"]
   },
   {
@@ -84,7 +84,7 @@
 {
         "name": "Sesajen",
         "type": "Follower"
-        "uniques": ["[+1 Food] from all [Faith] buildings", "[+2 Gold, +2 Faith] from every [Incense]"]
+        "uniques": ["[+1 Food, +1 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>", "[+2 Gold, +2 Faith] from every [Incense]"]
     },
 {
         "name": "King of Spirits",
@@ -105,7 +105,7 @@
 {
         "name": "Holy Iconography",
         "type": "Follower",
-        "uniques": ["[+2 Gold, +2 Culture] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]"]
+        "uniques": ["[+2 Gold, +2 Culture, +1 Faith] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]"]
     },
 {
         "name": "Predestination",
@@ -116,7 +116,7 @@
 {
         "name": "Apostolic Succession",
         "type": "Founder",
-        "uniques": ["[Faith] cost of purchasing [Missionary] units [-25]%","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+        "uniques": ["[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [2] [Followers of this Religion]>","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
     },
 {
         "name": "Nihilism",
@@ -128,7 +128,8 @@
 {
         "name": "Hedonism",
         "type": "Follower",
-        "uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>","[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings",
+        "uniques": ["[+33]% Natural religion spread [in all cities] <during a Golden Age>",
+                    "[-2 Food, -2 Production, +1 Gold, +2 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
                     "[+2 Culture, -3 Faith] from every [Ascetic]"]
     },
 {
@@ -139,22 +140,22 @@
 {
         "name": "Theosis",
         "type": "Enhancer",
-        "uniques": ["[-33]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
+        "uniques": ["[-50]% Unhappiness from [Followers of this Religion] <in cities with at least [5] [Followers of this Religion]>","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
     },
 {
         "name": "Liturgical Chanting",
         "type": "Follower",
-        "uniques": ["[+2 Culture] from all [Faith] buildings"]
+        "uniques": ["[+2 Culture, +1 Happiness] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>","[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [10] [Followers of this Religion]>"]
     },
 {
         "name": "Tzelota",
         "type": "Follower",
-        "uniques": ["[+10]% Strength for cities <in cities with at least [3] [Followers of this Religion]>","[+1 Faith] from every [Temple]"]
+        "uniques": ["[+15]% Strength for cities <in cities with at least [3] [Followers of this Religion]>","[+1 Faith, +1 Culture] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"]
     },
 {
         "name": "Food Offering",
         "type": "Follower",
-        "uniques": ["[+1 Food, +1 Culture] from all [Faith] buildings"]
+        "uniques": ["[+1 Food, +1 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>"]
     },
 {
         "name": "Iconoclasm",
@@ -190,5 +191,10 @@
         "name": "Fasting Calendar",
         "type": "Follower"
         "uniques": ["[+2 Food] from every [2] global followers [in all cities]","[+1 Production] from every [4] global followers [in all cities]"]
+    },
+{
+        "name": "Work Ethic",
+        "type": "Enhancer"
+        "uniques": ["[+2 Production, +1 Gold] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>","May buy [Worker] units with [Faith] for [2] times their normal Production cost <in cities with at least [5] [Followers of this Religion]>"]
     }
 ]
