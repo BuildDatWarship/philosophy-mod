@@ -4,21 +4,18 @@
     "type": "Pantheon",
     "uniques": ["[+70]% Natural religion spread [in City-State cities]",
       "[+10]% Natural religion spread [in all cities]","[+2 Culture, +1 Faith] from every [Philosopher]",
-                "[+100]% Production when constructing [Sacred Space] buildings [in all cities]"
-    ]
+                "[+100]% Production when constructing [Sacred Space] buildings [in all cities]"]
   },
   {
     "name": "Spirits not Gods",
     "type": "Pantheon",
-    "uniques": ["Religion naturally spreads to cities [+4] tiles away", "[+20]% Natural religion spread [in all cities]"
-    ]
+    "uniques": ["Religion naturally spreads to cities [+4] tiles away", "[+20]% Natural religion spread [in all cities]"]
   },
   {
     "name": "One Supreme God",
     "type": "Pantheon",
     "uniques": ["[+50]% great person generation [in cities following this religion]",
-      "[+2]% [Gold] from every follower, up to [20]%"
-    ]
+      "[+2]% [Gold] from every follower, up to [20]%"]
   },
   {
     "name": "Pantheism",
