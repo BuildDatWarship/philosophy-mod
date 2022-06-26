@@ -108,21 +108,21 @@ ReligionIcons/Vajrayana Buddhism
   orig: 300, 300
   offset: 0, 0
   index: -1
-TileSets/Units/Barong
+TileSets/5Hex/Units/Barong
   rotate: false
   xy: 4, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Units/Simon the Tanner
+TileSets/5Hex/Units/Simon the Tanner
   rotate: false
   xy: 140, 4
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/Units/St Mercurius
+TileSets/5Hex/Units/St Mercurius
   rotate: false
   xy: 372, 196
   size: 96, 96
