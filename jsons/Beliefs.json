@@ -196,5 +196,10 @@
         "name": "Work Ethic",
         "type": "Enhancer"
         "uniques": ["[+2 Production, +1 Gold] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>","May buy [Worker] units with [Faith] for [2] times their normal Production cost <in cities with at least [5] [Followers of this Religion]>"]
+    },
+{
+        "name": "Ritual Sacrifice",
+        "type": "Follower"
+        "uniques": [""]
     }
 ]
