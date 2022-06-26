@@ -84,7 +84,8 @@
 {
         "name": "Sesajen",
         "type": "Follower"
-        "uniques": ["[+1 Food, +1 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>", "[+2 Gold, +2 Faith] from every [Incense]"]
+        "uniques": ["[+1 Food, +1 Culture] from all [Faith] buildings <in cities with at least [3] [Followers of this Religion]>", 
+  "[+2 Gold, +2 Faith] from every [Incense]"]
     },
 {
         "name": "King of Spirits",
@@ -105,8 +106,9 @@
 {
         "name": "Holy Iconography",
         "type": "Follower",
-        "uniques": ["[+2 Gold, +2 Culture, +1 Faith] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]","[+1 Culture] per [3] population [in all cities]"]
-    },
+        "uniques": ["[+2 Gold, +2 Culture, +1 Faith] from every [Dyes]","[+2 Gold, +2 Culture, +2 Faith] from every [Incense]",
+                    "[+1 Culture] per [3] population [in all cities]", "[+1 Culture] from all [Faith] buildings <in cities with at least [5] [Followers of this Religion]>"]
+    },5
 {
         "name": "Predestination",
         "type": "Follower",
@@ -116,7 +118,8 @@
 {
         "name": "Apostolic Succession",
         "type": "Founder",
-        "uniques": ["[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [2] [Followers of this Religion]>","May choose [1] additional belief(s) of any type when [enhancing] a religion"]
+        "uniques": ["[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [2] [Followers of this Religion]>",
+                    "May choose [1] additional belief(s) of any type when [enhancing] a religion"]
     },
 {
         "name": "Nihilism",
@@ -145,12 +148,14 @@
 {
         "name": "Liturgical Chanting",
         "type": "Follower",
-        "uniques": ["[+2 Culture, +1 Happiness] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>","[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [10] [Followers of this Religion]>"]
+        "uniques": ["[+2 Culture, +1 Happiness] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
+                    "[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [9] [Followers of this Religion]>"]
     },
 {
         "name": "Tzelota",
         "type": "Follower",
-        "uniques": ["[+15]% Strength for cities <in cities with at least [3] [Followers of this Religion]>","[+1 Faith, +1 Culture] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+15]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
+                    "[+1 Faith, +1 Culture] from every [Temple] <in cities with at least [3] [Followers of this Religion]>"]
     },
 {
         "name": "Food Offering",
@@ -195,16 +200,23 @@
 {
         "name": "Work Ethic",
         "type": "Enhancer"
-        "uniques": ["[+2 Production, +1 Gold] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>","May buy [Worker] units with [Faith] for [2] times their normal Production cost <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+2 Production, +1 Gold] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>",
+  "May buy [Worker] units with [Faith] for [2] times their normal Production cost <in cities with at least [5] [Followers of this Religion]>"]
     },
 {
         "name": "Ritual Sacrifice",
         "type": "Follower"
-        "uniques": ["Earn [70]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion","Earn [30]% of [Military] unit's [Strength] as [Gold] when killed within 4 tiles of a city following this religion"]
+        "uniques": ["Earn [70]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion",
+  "Earn [30]% of [Military] unit's [Strength] as [Gold] when killed within 4 tiles of a city following this religion"]
     },
 {
         "name": "Sacrifice to the Rain God",
         "type": "Enhancer"
         "uniques": ["May buy [Hueyi Teocalli] buildings with [Faith] [in cities following this religion]","[-10]% growth [in cities following this religion]"]
+    },
+{
+        "name": "Kabbalah",
+        "type": "Enhancer"
+        "uniques": ["[+1 Happiness, +2 Science] from all [Synagogue] buildings","[+1 Faith] per [4] population [in all cities]"]
     }
 ]
