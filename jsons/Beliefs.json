@@ -77,7 +77,7 @@
     },
 {
         "name": "Ritual Combat",
-        "type": "Follower"
+        "type": "Founder"
         "uniques": ["[+20]% Strength for cities <in cities with at least [3] [Followers of this Religion]>",
   "[+15]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
     },
@@ -140,7 +140,7 @@
 {
         "name": "Theosis",
         "type": "Enhancer",
-        "uniques": ["[-50]% Unhappiness from [Followers of this Religion] <in cities with at least [5] [Followers of this Religion]>","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
+        "uniques": ["[-50]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
     },
 {
         "name": "Liturgical Chanting",
