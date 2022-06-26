@@ -68,5 +68,14 @@
 		"culture": 2,
 		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
 "Free [Simon the Tanner] appears"]
+	},
+{
+		"name": "Hueyi Teocalli",
+		"cost": 0,
+		"faith": 2,
+		"gold": 1,
+		"culture": 1,
+		"uniques": ["Unbuildable","Hidden when religion is disabled","Can only be built [in holy cities]",
+"Free [Tlaloc] appears"]
 	}
 ]
