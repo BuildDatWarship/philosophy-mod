@@ -1,6 +1,11 @@
 [
   {
     "name": "Deity",
+        "movementType": "Land",
+		"uniques": ["Uncapturable","Can pass through impassable tiles","Can see invisible [All] units"]
+  },
+	{
+    "name": "Deity-Air",
         "movementType": "Air",
 		"uniques": ["Uncapturable","Can pass through impassable tiles","Can see invisible [All] units"]
   }
