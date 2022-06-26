@@ -124,8 +124,8 @@ TileSets/5Hex/Units/Simon the Tanner
   index: -1
 TileSets/5Hex/Units/St Mercurius
   rotate: false
-  xy: 372, 196
-  size: 96, 96
-  orig: 96, 96
+  xy: 276, 4
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
