@@ -37,5 +37,14 @@
   "uniques": ["Cannot be purchased","Unbuildable","Can move after attacking","Never appears as a Barbarian unit",
 	      "[-30]% Strength for enemy [Military] units in adjacent [All] tiles","[70]% chance to intercept air attacks",
 	      "Cannot be intercepted","[2] additional attacks per turn"],
+  },
+	{
+    "name": "Bodhisattva",
+		"unitType": "Deity",
+		"movement": "4",
+		"strength": "33",
+"cost": 108,
+  "uniques": ["Unbuildable","Can move after attacking","Never appears as a Barbarian unit","Invisible to non-adjacent units",
+	      "[+15]% Strength bonus for [Military] units within [2] tiles"],
   }
 ]
