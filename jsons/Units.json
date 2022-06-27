@@ -28,7 +28,7 @@
   },
 	{
     "name": "Tlaloc",
-		"unitType": "Deity-Air",
+		"unitType": "DeityAir",
 		"movement": "1",
 		"strength": "60",
 		"rangedStrength": "60",
