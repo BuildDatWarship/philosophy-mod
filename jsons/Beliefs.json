@@ -135,7 +135,7 @@
 {
         "name": "Incarnation of God",
         "type": "Founder",
-        "uniques": ["[+33]% Natural religion spread [in all cities]","[+2]% [Gold] from every follower, up to [20]%"]
+        "uniques": ["[+33]% Natural religion spread [in all cities]","[+1 Gold] per [2] population [in cities following this religion]"]
     },
 {
         "name": "Theosis",
@@ -214,6 +214,6 @@
 {
         "name": "Kabbalah",
         "type": "Enhancer"
-        "uniques": ["[+1 Happiness, +2 Science] from all [Synagogue] buildings","[+1 Faith] per [4] population [in all cities]"]
+        "uniques": ["[+1 Happiness, +2 Science] from all [Temple] buildings","[+1 Faith] per [4] population [in all cities]"]
     }
 ]
