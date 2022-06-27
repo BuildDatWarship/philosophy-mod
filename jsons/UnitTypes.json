@@ -5,8 +5,8 @@
 		"uniques": ["Uncapturable","Can pass through impassable tiles","Can see invisible [All] units"]
   },
 	{
-    "name": "Deity-Air",
+    "name": "DeityAir",
         "movementType": "Air",
-		"uniques": ["Uncapturable","Can pass through impassable tiles","Can see invisible [All] units"]
+		"uniques": ["Uncapturable","Can see invisible [All] units"]
   }
 ]
