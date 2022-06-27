@@ -214,6 +214,16 @@
 {
         "name": "Kabbalah",
         "type": "Enhancer"
-        "uniques": ["[+1 Happiness, +2 Science] from all [Temple] buildings","[+1 Faith] per [4] population [in all cities]"]
+        "uniques": ["[+1 Happiness, +2 Science] from all [Synagogue] buildings","[+1 Faith] per [4] population [in all cities]"]
+    },
+{
+        "name": "Dharmapala",
+        "type": "Enhancer",
+        "uniques": ["May buy [Bodhisattva] units with [Faith] for [2] times their normal Production cost"]
+    },
+{
+        "name": "Onmyodo",
+        "type": "Founder",
+        "uniques": ["May buy [Onmyoji] units with [Faith] for [2] times their normal Production cost"]
     }
 ]
