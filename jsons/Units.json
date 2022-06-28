@@ -43,9 +43,20 @@
     "name": "Bodhisattva",
 		"unitType": "Deity",
 		"movement": "3",
-		"strength": "24",
+		"strength": "25",
                 "cost": 108,
   "uniques": ["Unbuildable","Never appears as a Barbarian unit","Invisible to non-adjacent units",
-	      "May capture killed [All] units"],
+	      "May capture killed [All] units","[+64]% Strength <when defending>","Can [Spread Religion] [2] times"],
+  },
+	{
+    "name": "Onmyoji",
+		"unitType": "Archer",
+		"movement": "2",
+		"strength": "7",
+                "cost": 64,
+		"range": "2",
+		"rangedStrength": "21",
+  "uniques": ["Unbuildable","Never appears as a Barbarian unit","[+5]% Strength bonus for [Military] units within [2] tiles",
+	      "[-5]% Strength for enemy [Military] units in adjacent [All] tiles"],
   }
 ]
