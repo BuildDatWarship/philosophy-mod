@@ -224,6 +224,6 @@
 {
         "name": "Onmyodo",
         "type": "Founder",
-        "uniques": ["May buy [Onmyoji] units with [Faith] for [2] times their normal Production cost"]
+        "uniques": ["May buy [Onmyoji] units with [Faith] for [3] times their normal Production cost"]
     }
 ]
