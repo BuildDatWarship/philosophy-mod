@@ -13,7 +13,7 @@ BuildingIcons/Fushimi Inari Taisha
   index: -1
 BuildingIcons/Pura Agung
   rotate: false
-  xy: 1823, 1835
+  xy: 836, 1327
   size: 200, 196
   orig: 200, 196
   offset: 0, 0
@@ -62,14 +62,14 @@ ReligionIcons/Oriental Orthodoxy
   index: -1
 ReligionIcons/Roman Catholicism
   rotate: false
-  xy: 580, 212
+  xy: 720, 604
   size: 151, 200
   orig: 151, 200
   offset: 0, 0
   index: -1
 ReligionIcons/Sufi Islam
   rotate: false
-  xy: 1515, 1523
+  xy: 533, 812
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -83,7 +83,7 @@ ReligionIcons/Teotl
   index: -1
 ReligionIcons/Theravada Buddhism
   rotate: false
-  xy: 372, 172
+  xy: 512, 604
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
@@ -97,28 +97,35 @@ ReligionIcons/Vajrayana Buddhism
   index: -1
 TileSets/5Hex/Units/Barong
   rotate: false
-  xy: 533, 820
+  xy: 512, 404
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+TileSets/5Hex/Units/Bodhisattva
+  rotate: false
+  xy: 580, 204
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Simon the Tanner
   rotate: false
-  xy: 512, 620
+  xy: 1823, 1631
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/St Mercurius
   rotate: false
-  xy: 512, 420
+  xy: 836, 1127
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
   index: -1
 TileSets/5Hex/Units/Tlaloc
   rotate: false
-  xy: 1823, 1635
+  xy: 712, 404
   size: 192, 192
   orig: 192, 192
   offset: 0, 0
@@ -130,9 +137,23 @@ UnitIcons/Barong
   orig: 521, 660
   offset: 0, 0
   index: -1
+UnitIcons/Bodhisattva
+  rotate: false
+  xy: 1823, 1831
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Simon the Tanner
+  rotate: false
+  xy: 1515, 1523
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/St Mercurius
   rotate: false
-  xy: 836, 1323
+  xy: 372, 172
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
