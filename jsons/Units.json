@@ -50,7 +50,7 @@
   },
 	{
     "name": "Onmyoji",
-		"unitType": "Archer",
+		"unitType": "Archery",
 		"movement": "2",
 		"strength": "7",
                 "cost": 64,
