@@ -115,7 +115,7 @@
 {
         "name": "Apostolic Succession",
         "type": "Founder",
-        "uniques": ["[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [2] [Followers of this Religion]>",
+        "uniques": ["[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [7] [Followers of this Religion]>",
                     "May choose [1] additional belief(s) of any type when [enhancing] a religion"]
     },
 {
@@ -135,12 +135,12 @@
 {
         "name": "Incarnation of God",
         "type": "Founder",
-        "uniques": ["[+33]% Natural religion spread [in all cities]","[+1 Gold] per [2] population [in cities following this religion]"]
+        "uniques": ["[+33]% Natural religion spread [in all cities]","[+1 Gold] per [3] population [in cities following this religion]"]
     },
 {
         "name": "Theosis",
         "type": "Enhancer",
-        "uniques": ["[-50]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
+        "uniques": ["[-34]% Unhappiness from [Followers of this Religion] [in all cities]","[+33]% Strength <for [All] units> <when fighting in [All] tiles>"]
     },
 {
         "name": "Liturgical Chanting",
@@ -187,7 +187,7 @@
 {
         "name": "Ramadan",
         "type": "Follower"
-        "uniques": ["[+1 Gold, +1 Food, +1 Faith] per [3] population [in all cities]"]
+        "uniques": ["[+1 Gold, +1 Food, +1 Faith] per [4] population [in all cities]"]
     },
 {
         "name": "Fasting Calendar",
