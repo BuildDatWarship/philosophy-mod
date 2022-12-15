@@ -14,7 +14,7 @@
   {
     "name": "One Supreme God",
     "type": "Pantheon",
-    "uniques": ["[+35]% great person generation [in cities following this religion]",
+    "uniques": ["[+35]% Great Person generation [in cities following this religion]",
       "[+2]% [Gold] from every follower, up to [20]%"]
   },
   {
@@ -30,7 +30,7 @@
   {
     "name": "Palamite Panentheism",
     "type": "Pantheon",
-    "uniques": ["[+1 Faith] from every [Friendly Land]","[+30]% great person generation [in cities following this religion]",
+    "uniques": ["[+1 Faith] from every [Friendly Land]","[+30]% Great Person generation [in cities following this religion]",
                 "[+3 Faith, +1 Production] from every [Ascetic]"]
   },
   {
@@ -214,7 +214,7 @@
 {
         "name": "Kabbalah",
         "type": "Enhancer"
-        "uniques": ["[+1 Happiness, +2 Science] from all [Synagogue] buildings","[+1 Faith] per [4] population [in all cities]"]
+        "uniques": ["[+1 Happiness, +2 Science] from every [Synagogue]","[+1 Faith] per [4] population [in all cities]"]
     },
 {
         "name": "Dharmapala",
